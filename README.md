@@ -32,5 +32,6 @@ submission/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-└── monicadyp-dashboard.png
+├── monicadyp-dashboard.png
+└── Student_Dropout_Risk_Monitoring_Dashboard.pdf
 ```
