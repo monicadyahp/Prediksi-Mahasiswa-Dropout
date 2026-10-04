@@ -19,9 +19,9 @@ Tingkat putus studi (_dropout_) mahasiswa berdampak negatif terhadap reputasi in
 
 ## 3. Tautan Penting
 
-- **Business Dashboard (Looker Studio):** [Masukkan tautan publik Looker Studio kamu di sini]
+- **Business Dashboard (Looker Studio):** [https://datastudio.google.com/reporting/b25da8bc-56e1-4e5a-9b0f-ec6f3881a018](https://datastudio.google.com/reporting/b25da8bc-56e1-4e5a-9b0f-ec6f3881a018)
+- **Live Streamlit App (Deployment):** [https://prediksi-mahasiswa-dropout.streamlit.app/](https://prediksi-mahasiswa-dropout.streamlit.app/)
 - **Video Presentasi (YouTube/Drive):** [Masukkan tautan video presentasi berdurasi maks 5 menit di sini]
-- **Live Streamlit App:** [Opsional: Masukkan link Streamlit Cloud jika kamu mendeploy-nya secara online]
 
 ## 4. Struktur Direktori Berkas Submission
 
